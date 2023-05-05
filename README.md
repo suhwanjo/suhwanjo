@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👀 I’m interested in MLOps
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Django and AI, AWS
 - 📫 How to reach me: shan6517@naver.com
 
