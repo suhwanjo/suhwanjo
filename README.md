@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, AI, and AWS
+- 👀 I’m interested in Data Science, Edge AI
+- 🌱 I’m currently learning Edge AI S/W
 - 📫 How to reach me: shan6517@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhwanjo&show_icons=true&theme=vue) 
