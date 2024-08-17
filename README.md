@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👀 I’m interested in Embedded, Edge AI
+- 👀 I’m interested in Embedded S/W, Edge AI
 - 🌱 I’m currently learning in Edge AI S/W Academy
 - 📫 How to reach me: shan6517@naver.com
 
