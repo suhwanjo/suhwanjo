@@ -1,8 +1,8 @@
 ### 👋 Hi there 
 
 - 👀 I’m interested in Embedded S/W, Edge AI
-- 🌱 I’m currently learning in Edge AI S/W Academy
-- 📫 How to reach me: shan6517@naver.com
+- 🏢 I'm currently working at MPEONCO, Ltd.
+- 📫 How to reach me: shan6517@mpeon.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhwanjo&show_icons=true&theme=vue) 
 
